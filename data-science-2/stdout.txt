@@ -1,0 +1,17 @@
+============================= test session starts =============================
+platform win32 -- Python 3.6.5, pytest-3.5.1, py-1.5.3, pluggy-0.6.0 -- C:\Users\Usuario\Anaconda3\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\Usuario\codenation\data-science-2, inifile:
+plugins: remotedata-0.2.1, openfiles-0.3.0, doctestplus-0.1.3, arraydiff-0.2
+collecting ... collected 7 items
+
+test_submit.py::test_q1 PASSED                                           [ 14%]
+test_submit.py::test_q2 PASSED                                           [ 28%]
+test_submit.py::test_q3 PASSED                                           [ 42%]
+test_submit.py::test_q4 PASSED                                           [ 57%]
+test_submit.py::test_q5 PASSED                                           [ 71%]
+test_submit.py::test_q6 PASSED                                           [ 85%]
+test_submit.py::test_q7 PASSED                                           [100%]
+
+-- generated xml file: C:\Users\Usuario\codenation\data-science-2\output.xml --
+========================== 7 passed in 15.00 seconds ==========================
